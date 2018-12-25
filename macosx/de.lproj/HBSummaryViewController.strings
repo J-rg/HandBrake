@@ -38,7 +38,7 @@
 "RXJ-DZ-4mh.title" = "Format:";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Container format. Video, audio, and other tracks are combined into a single file of this type. Affects compatibility."; ObjectID = "txV-1R-WoD"; */
-"txV-1R-WoD.ibShadowedToolTip" = "Kontainerformat. Video, Audio und andere Spuren werden zu einer Datei kombiniert. Kann die Kompatibilität beeinflussen.";
+"txV-1R-WoD.ibShadowedToolTip" = "Containerformat. Video, Audio und andere Spuren werden zu einer Datei kombiniert. Kann die Kompatibilität beeinflussen.";
 
 /* Class = "NSButtonCell"; title = "Web Optimized"; ObjectID = "wcc-5d-Dgj"; */
 "wcc-5d-Dgj.title" = "Web-optimiert";

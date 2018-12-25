@@ -29,7 +29,7 @@
 "308.title" = "Ausgabedateien:";
 
 /* Class = "NSButtonCell"; title = "Store Activity Logs in same location as video"; ObjectID = "348"; */
-"348.title" = "Aktivitätsprotokoll an selbem Ort wie das Video ablegen";
+"348.title" = "Aktivitätsprotokoll am selben Ort wie das Video ablegen";
 
 /* Class = "NSTextFieldCell"; title = "Activity Logs:"; ObjectID = "351"; */
 "351.title" = "Protokoll:";
@@ -62,7 +62,7 @@
 "362.title" = "30";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Verbosity Level. Extended verbosity records more technical information to the Activity Log. Minimal verbosity records less."; ObjectID = "363"; */
-"363.ibShadowedToolTip" = "Verbosity-Level. Gibt an wieviele Details im Aktivitätsprotokoll aufgenommen werden sollen.";
+"363.ibShadowedToolTip" = "Verbosity-Level. Gibt an, wie viele Details im Aktivitätsprotokoll aufgenommen werden sollen.";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "365"; */
 "365.title" = "OtherViews";
@@ -77,7 +77,7 @@
 "370.title" = "Minimiert";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Verbosity Level. Extended verbosity records more technical information to the Activity Log. Minimal verbosity records less."; ObjectID = "371"; */
-"371.ibShadowedToolTip" = "Verbosity-Level. Gibt an wieviele Details im Aktivitätsprotokoll aufgenommen werden sollen.";
+"371.ibShadowedToolTip" = "Verbosity-Level. Gibt an, wie viele Details im Aktivitätsprotokoll aufgenommen werden sollen.";
 
 /* Class = "NSTextFieldCell"; title = "Verbosity Level:"; ObjectID = "372"; */
 "372.title" = "Aufzeichnungsumfang:";
@@ -107,10 +107,10 @@
 "396.title" = "Granularitätsaufteilung bei konstanter Qualität:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Use libdvdnav to read DVDs. Only disable this for problematic DVDs where libdvdread works better (rare)."; ObjectID = "398"; */
-"398.ibShadowedToolTip" = "Verwende libdvdnav um DVDs einzulesen. Nur deaktivieren bei proplematischen DVDs, wenn libdvdread besser funktioniert (selten).";
+"398.ibShadowedToolTip" = "Verwende libdvdnav, um DVDs einzulesen. Nur deaktivieren bei proplematischen DVDs, wenn libdvdread besser funktioniert (selten).";
 
 /* Class = "NSButtonCell"; title = "Use libdvdnav (instead of libdvdread)"; ObjectID = "399"; */
-"399.title" = "Libdvdnav verwenden (anstelle von libdvdread)";
+"399.title" = "libdvdnav verwenden (anstelle von libdvdread)";
 
 /* Class = "NSTextFieldCell"; title = "DVD Reader:"; ObjectID = "443"; */
 "443.title" = "DVD-Leser:";
@@ -188,7 +188,7 @@
 "cqp-xU-GOe.title" = "x264-Enkoder:";
 
 /* Class = "NSTextFieldCell"; title = "Drag labels to Format to compose a naming format."; ObjectID = "dQ6-Dh-9sD"; */
-"dQ6-Dh-9sD.title" = "Labels in das Formatfenster ziehen um das Benennungsschema festzulegen.";
+"dQ6-Dh-9sD.title" = "Labels in das Formatfenster ziehen, um das Benennungsschema festzulegen.";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "None"; ObjectID = "f36-PN-c5F"; */
 "f36-PN-c5F.ibShadowedIsNilPlaceholder" = "Keine";
@@ -215,16 +215,16 @@
 "pUi-lK-cHw.title" = "Unterstriche durch Leerzeichen ersetzen";
 
 /* Class = "NSTokenField"; ibShadowedToolTip = "Drag labels to the Format field to compose a naming format."; ObjectID = "Tk3-Ig-fFI"; */
-"Tk3-Ig-fFI.ibShadowedToolTip" = "Label in das Format schieben um einen Benennungssysntax zu erstellen.";
+"Tk3-Ig-fFI.ibShadowedToolTip" = "Label in das Format schieben, um eine Benennungssyntax zu erstellen.";
 
 /* Class = "NSButtonCell"; title = "Reset to \"Do nothing\" on launch"; ObjectID = "Uxv-oN-c1r"; */
 "Uxv-oN-c1r.title" = "Bei jedem Start auf \"Nichts tun\" zurücksetzen";
 
 /* Class = "NSButtonCell"; title = "Remove common punctuation"; ObjectID = "wo5-iR-2mb"; */
-"wo5-iR-2mb.title" = "Punktationen entfernen";
+"wo5-iR-2mb.title" = "Punktationszeichen entfernen";
 
 /* Class = "NSButtonCell"; title = "Pause queue if disk space is lower than:"; ObjectID = "yG9-mz-tqQ"; */
-"yG9-mz-tqQ.title" = "Warteschlange anhalten wenn der verfügbare Speicherplatz kleiner ist als (GB):";
+"yG9-mz-tqQ.title" = "Warteschlange pausieren, wenn der verfügbare Speicherplatz kleiner ist als (GB):";
 
 /* Class = "NSButtonCell"; title = "Show Open Source panel"; ObjectID = "Zqz-Kn-xOS"; */
 "Zqz-Kn-xOS.title" = "Öffnen-Dialog anzeigen";

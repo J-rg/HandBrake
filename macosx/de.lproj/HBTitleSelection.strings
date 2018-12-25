@@ -2,7 +2,7 @@
 "4XY-C0-SwE.headerCell.title" = "Titel";
 
 /* Class = "NSTextFieldCell"; title = "Select the titles to add to the queue:"; ObjectID = "5tD-fg-g4t"; */
-"5tD-fg-g4t.title" = "Wählen Sie die Titel aus um sie der Warteschlange hinzuzufügen:";
+"5tD-fg-g4t.title" = "Wähle die Titel aus, um sie der Warteschlange hinzuzufügen:";
 
 /* Class = "NSTableColumn"; headerCell.title = "Duration"; ObjectID = "a6r-ky-REh"; */
 "a6r-ky-REh.headerCell.title" = "Dauer";

@@ -59,7 +59,7 @@
 "s7o-pK-heI.paletteLabel" = "Pause/Fortfahren";
 
 /* Class = "NSToolbarItem"; toolTip = "Pause Encoding"; ObjectID = "s7o-pK-heI"; */
-"s7o-pK-heI.toolTip" = "Enkodierung anhalten";
+"s7o-pK-heI.toolTip" = "Enkodierung pausieren";
 
 /* Class = "NSMenuItem"; title = "Do Nothing"; ObjectID = "sm5-26-sAg"; */
 "sm5-26-sAg.title" = "Nichts machen";

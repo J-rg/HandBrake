@@ -112,7 +112,7 @@
 
 /* File already exists alert -> informative text
    File already exists in queue alert -> informative text */
-"Do you want to overwrite %@?" = "Wollen Sie %@ überschreiben?";
+"Do you want to overwrite %@?" = "Willst du %@ überschreiben?";
 
 /* Quit Alert -> second button */
 "Don't Quit" = "Nicht beenden";
@@ -151,7 +151,7 @@
 "HandBrake can't playback this combination of video/audio/container format. Do you want to open it in an external player?" = "HandBrake kann die Kombination aus Audio/Video/Kontainer-Format nicht wiedergeben. Soll es extern geöffnet werden?";
 
 /* Quit Alert -> informative text */
-"If you quit HandBrake your current encode will be reloaded into your queue at next launch. Do you want to quit anyway?" = "Wenn Sie HandBrake nun beenden werden Ihre momentanen Enkodierungen beim nächsten Start wieder in die Warteschlange geladen. Wollen Sie trotzdem beenden?";
+"If you quit HandBrake your current encode will be reloaded into your queue at next launch. Do you want to quit anyway?" = "Wenn du HandBrake nun beendest, werden deine momentanen Enkodierungen beim nächsten Start wieder in die Warteschlange geladen. Willst du trotzdem beenden?";
 
 /* Import preset open panel title */
 "Import presets" = "Voreinstellungen importieren";
@@ -206,12 +206,12 @@
 "Overwrite" = "Überschreiben";
 
 /* Toolbar Pause Item */
-"Pause" = "Anhalten";
+"Pause" = "Pause";
 
 /* Queue -> pause/resume menu
    Toolbar Pause Item
    Touch bar */
-"Pause Encoding" = "Enkodierung anhalten";
+"Pause Encoding" = "Enkodierung pausieren";
 
 /* Touch bar */
 "Pause/Resume Encoding" = "Enkodierung Pausieren/Fortsetzen";
@@ -224,10 +224,10 @@
 
 /* Add preset window -> name alert informative text
    Rename preset window -> name alert informative text */
-"Please enter a name." = "Bitte geben Sie einen Namen ein.";
+"Please enter a name." = "Bitte gib einen Namen ein.";
 
 /* Copy Protection Alert -> informative text */
-"Please note that HandBrake does not support the removal of copy-protection from DVD Discs. You can if you wish use any other 3rd party software for this function. This warning will be shown only once each time HandBrake is run." = "Bitte beachten Sie, dass HandBrake keinen Kopierschutz von DVDs entfernen kann. Wenn gewünscht, kann hierzu Software eines Drittherstellers verwendet werden.";
+"Please note that HandBrake does not support the removal of copy-protection from DVD Discs. You can if you wish use any other 3rd party software for this function. This warning will be shown only once each time HandBrake is run." = "Bitte beachte, dass HandBrake keinen Kopierschutz von DVDs entfernen kann. Wenn gewünscht, kann hierzu Software eines Drittherstellers verwendet werden.";
 
 /* Queue Done Alert -> shut down second button
    Queue Done Alert -> sleep second button */
@@ -250,7 +250,7 @@
 
 /* Queue done alert message
    Queue notification alert message */
-"Put down that cocktail…" = "Stellen Sie den Cocktail ab …";
+"Put down that cocktail…" = "Stelle den Cocktail ab …";
 
 /* Preferences -> Output Name Token */
 "Quality/Bitrate" = "Qualität/Bitrate";
@@ -285,7 +285,7 @@
 "Select the desired external application" = "Die gewünschte externe Anwendung auswählen";
 
 /* Titles selection sheet -> informative text */
-"Select the titles to add to the queue using the %@ preset:" = "Wählen Sie die Titel aus, die mit der Voreinstellung %@ zur Warteschlange hinzugefügt werden sollen:";
+"Select the titles to add to the queue using the %@ preset:" = "Wähle die Titel aus, die mit der Voreinstellung %@ zur Warteschlange hinzugefügt werden sollen:";
 
 /* Notification -> Show in Finder */
 "Show" = "Zeigen";
@@ -323,7 +323,7 @@
 "Start/Stop Encoding" = "Enkodierung Starten/Abbrechen";
 
 /* Toolbar Start/Stop Item */
-"Stop" = "Stop";
+"Stop" = "Stopp";
 
 /* Queue Alert -> cancel rip third button */
 "Stop After Current Job" = "Nach momentaner Aufgabe abbrechen";
@@ -394,22 +394,22 @@
 "Warning!" = "Warnung!";
 
 /* Queue Alert -> cancel rip message */
-"You are currently encoding. What would you like to do?" = "Sie sind momentan am enkodieren. Was wollen Sie tun?";
+"You are currently encoding. What would you like to do?" = "Du bist momentan am enkodieren. Was willst du tun?";
 
 /* Delete preset alert -> informative text */
 "You can't undo this action." = "Diese Aktion kann nicht rückgängig gemacht werden.";
 
 /* Queue Done Alert -> shut down informative text */
-"You have selected to shut down the computer after encoding. To turn off shut down, go to the HandBrake preferences." = "Sie haben ausgewählt den Computer nach der Enkodierung herunterzufahren. Um das Herunterfahren abzustellen gehen Sie in die HandBrake-Einstellungen.";
+"You have selected to shut down the computer after encoding. To turn off shut down, go to the HandBrake preferences." = "Du hast ausgewählt, den Computer nach der Enkodierung herunterzufahren. Um das Herunterfahren abzustellen, gehe in die HandBrake-Einstellungen.";
 
 /* Queue Done Alert -> sleep informative text */
-"You have selected to sleep the computer after encoding. To turn off sleeping, go to the HandBrake preferences." = "Sie haben ausgewählt den Computer nach der Enkodierung in den Ruhezustand zu setzen. Um den Ruhezustand abzustellen gehen Sie in die HandBrake-Einstellungen.";
+"You have selected to sleep the computer after encoding. To turn off sleeping, go to the HandBrake preferences." = "Du hast ausgewählt, den Computer nach der Enkodierung in den Ruhezustand zu setzen. Um den Ruhezustand abzustellen, gehe in die HandBrake-Einstellungen.";
 
 /* Queue -> disk almost full alert informative text */
 "You need to make more space available on your destination disk." = "Der Speicherplatz auf dem Zielmedium ist nicht ausreichend.";
 
 /* Queue -> disk almost full alert message */
-"Your destination disk is almost full." = "Ihr Ziel-Speichermedium ist fast voll.";
+"Your destination disk is almost full." = "Das Ziel-Speichermedium ist fast voll.";
 
 /* Queue done notification message */
 "Your encode %@ couldn't be completed." = "Die Enkodierung %@ konnte nicht ausgeführt werden.";
@@ -418,9 +418,9 @@
 "Your encode %@ is done!" = "Die Enkodierung %@ ist fertig!";
 
 /* Queue done alert informative text */
-"Your HandBrake queue is done!" = "Alle Aufgaben in Ihrer HandBrake-Warteschlange wurde erfolgreich ausgeführt!";
+"Your HandBrake queue is done!" = "Alle Aufgaben in der HandBrake-Warteschlange wurden erfolgreich ausgeführt!";
 
 /* Queue Edit Alert -> stop and edit informative text
    Queue Stop Alert -> stop and remove informative text */
-"Your movie will be lost if you don't continue encoding." = "Ihr Film wird verloren gehen, wenn Sie die Enkodierung nicht fortsetzen.";
+"Your movie will be lost if you don't continue encoding." = "Der Film wird verloren gehen, wenn du die Enkodierung nicht fortsetzt.";
 

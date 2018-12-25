@@ -35,7 +35,7 @@
 "aTC-39-h6S.ibExternalAccessibilityDescription" = "Sprachen der Tonspuren";
 
 /* Class = "NSScrollView"; ibShadowedToolTip = "Select the languages to use with the Track Selection Behavior setting."; ObjectID = "aTC-39-h6S"; */
-"aTC-39-h6S.ibShadowedToolTip" = "Wähle die Sprachen die mit dem Spurauswahlverhalten verwendet werden sollen.";
+"aTC-39-h6S.ibShadowedToolTip" = "Wähle die Sprachen, die mit dem Spurauswahlverhalten verwendet werden sollen.";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "DRC"; ObjectID = "BaY-Lo-8xn"; */
 "BaY-Lo-8xn.ibExternalAccessibilityDescription" = "DRC";

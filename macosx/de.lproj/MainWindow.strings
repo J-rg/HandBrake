@@ -2,7 +2,7 @@
 "0UB-bG-kwS.label" = "Filter";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Save New Preset…"; ObjectID = "2vD-zN-YMe"; */
-"2vD-zN-YMe.ibShadowedToolTip" = "Neue Voreinstellung speichern …";
+"2vD-zN-YMe.ibShadowedToolTip" = "Neue Voreinstellung sichern …";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = " "; ObjectID = "3Gk-ma-r2w"; */
 "3Gk-ma-r2w.ibShadowedIsNilPlaceholder" = "9e9766bb4d6bb85574f2ef2fccf35391_tr";
@@ -89,7 +89,7 @@
 "1562.ibExternalAccessibilityDescription" = "Ziel auswählen";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Browse to select a new destination path for your encode."; ObjectID = "1562"; */
-"1562.ibShadowedToolTip" = "Einen neuen Pfad zum Abspeichern des Videos wählen.";
+"1562.ibShadowedToolTip" = "Wähle einen neuen Pfad zum Sichern des Videos.";
 
 /* Class = "NSTabViewItem"; label = "Chapters"; ObjectID = "1989"; */
 "1989.label" = "Kapitel";
@@ -104,7 +104,7 @@
 "4907.title" = "Titel:";
 
 /* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "4913"; */
-"4913.title" = "Speichern unter:";
+"4913.title" = "Sichern unter:";
 
 /* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "4914"; */
 "4914.title" = "Dauer:";
@@ -230,7 +230,7 @@
 "INL-y9-Gwp.title" = "Alle Titel zur Warteschlange hinzufügen";
 
 /* Class = "NSButtonCell"; title = "Save New Preset…"; ObjectID = "IOU-3L-nvB"; */
-"IOU-3L-nvB.title" = "Neue Voreinstellung speichern …";
+"IOU-3L-nvB.title" = "Neue Voreinstellung sichern …";
 
 /* Class = "NSTextFieldCell"; title = "Range:"; ObjectID = "IxV-PW-oYh"; */
 "IxV-PW-oYh.title" = "Bereich:";

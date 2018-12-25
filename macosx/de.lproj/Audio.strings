@@ -2,7 +2,7 @@
 "2c7-G5-4KL.ibExternalAccessibilityDescription" = "Verstärkung";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Audio gain in decibels (dB). Increases or decreases audio volume."; ObjectID = "2c7-G5-4KL"; */
-"2c7-G5-4KL.ibShadowedToolTip" = "Verstärkung in Dezibel (dB). Erhöht oder erniedrigt die Lautstärke.";
+"2c7-G5-4KL.ibShadowedToolTip" = "Verstärkung in Dezibel (dB). Erhöht oder verringert die Lautstärke.";
 
 /* Class = "NSTableColumn"; headerCell.title = "Gain"; ObjectID = "5xO-DR-4cR"; */
 "5xO-DR-4cR.headerCell.title" = "Verstärkung";
@@ -11,7 +11,7 @@
 "6iN-2G-JDF.ibExternalAccessibilityDescription" = "Ausgewählte Spur";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Audio language and type."; ObjectID = "6iN-2G-JDF"; */
-"6iN-2G-JDF.ibShadowedToolTip" = "Audiosprache- und typ.";
+"6iN-2G-JDF.ibShadowedToolTip" = "Audiosprache und -typ.";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Iz-D8-zzz"; */
 "6Iz-D8-zzz.title" = "Text Cell";
@@ -41,7 +41,7 @@
 "fqs-Q8-hNY.title" = "Alle Spuren entfernen";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Audio gain in decibels (dB). Increases or decreases audio volume."; ObjectID = "gtC-MM-esd"; */
-"gtC-MM-esd.ibShadowedToolTip" = "Verstärkung in Dezibel (dB). Erhöht oder erniedrigt die Lautstärke.";
+"gtC-MM-esd.ibShadowedToolTip" = "Verstärkung in Dezibel (dB). Erhöht oder verringert die Lautstärke.";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HKE-hO-jOm"; */
 "HKE-hO-jOm.title" = "Text Cell";
